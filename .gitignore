@@ -14,5 +14,7 @@ cmake_install.cmake
 /src/lib/openjp2/opj_config_private.h
 scripts/opjstyle*
 
+/.idea
+
 # Ignore directories made by `make`.
 /bin/
